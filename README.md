@@ -5,7 +5,7 @@ Merhabalar,
 
 Google Firebase Database apilerine Delphi ile get ve post işlemlerini yapabilirsiniz.
 
-
+***
 ### 1. Aşama Koleksiyona Veri Ekleme (Post)
 
 FirebaseDatabase.pas dosyasını projenize ekledikten sonra aşağıdaki gibi kullanabilirsiniz.
